@@ -1,0 +1,1 @@
+# coqc-quick-example
